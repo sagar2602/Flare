@@ -1,1 +1,1 @@
-# Flare
+# Flare - A spark of connection
