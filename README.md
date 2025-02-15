@@ -9,6 +9,9 @@
 7. Observed this Error - [hook.js:608 No routes matched location "/"  Error Component Stack:] , So also have to include base route i.e. "/" inside Routes
 8. Lets make our Body component Now
 9. And lets render the body component inside the base route and add the NavBar component inside the Body component
+10. Lets now make the children routes, but for making it we have to replace the <Route /> with <Route></Route> ; if we are using the self close tag
+11. Create Login and profile components
+12. 
 
 
 
