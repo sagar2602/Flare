@@ -2,9 +2,9 @@ import React from 'react'
 
 const NavBar = () => {
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-black">
     <div className="flex-1">
-      <a className="btn btn-ghost text-xl">Flare <img className="w-6 h-6" src="https://cdn-icons-png.flaticon.com/128/159/159599.png"></img></a>
+      <a className="btn btn-ghost text-xl text-white">Flare <img className="w-6 h-6" src="https://cdn-icons-png.flaticon.com/128/159/159599.png"></img></a>
     </div>
     <div className="flex-none gap-2 mx-10">
       <div className="form-control">

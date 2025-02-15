@@ -17,7 +17,7 @@
 15. Now both routes working correctly.
 16. '/login' route have both the NavBar and its content rendered; same goes for 'my-profile' route have both the NavBar and its content rendered.
 17. Adding footer componet from daisyUi
-
+18. Lets fix this footer at the bottom of the page
  
 
 
