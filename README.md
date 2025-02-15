@@ -16,6 +16,8 @@
 14. Lets create an outlet inside our body component , Outlet component says that any children routes of parent component will render over here 
 15. Now both routes working correctly.
 16. '/login' route have both the NavBar and its content rendered; same goes for 'my-profile' route have both the NavBar and its content rendered.
+17. Adding footer componet from daisyUi
+
  
 
 
