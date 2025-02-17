@@ -18,6 +18,8 @@
 16. '/login' route have both the NavBar and its content rendered; same goes for 'my-profile' route have both the NavBar and its content rendered.
 17. Adding footer componet from daisyUi
 18. Lets fix this footer at the bottom of the page
+19. Added Login form over the login route; by using 2 components i.e. Input comoponet and card component of daisyUi - Here we have used following daisyUi components - TextInput [With form-control and labels] and Card [ Card with no image]
+20. Currently set them up over the login route and also leave code for displaying debugging for emailId and password at the time of onChange event
  
 
 
